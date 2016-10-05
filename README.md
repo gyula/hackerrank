@@ -1,3 +1,5 @@
+Solutions under the src folder.
+Detailed challenge descriptions 
 #Algorithms
 * [Timeconversion](https://www.hackerrank.com/challenges/time-conversion)
 * [CamelCase](https://www.hackerrank.com/challenges/camelcase)
